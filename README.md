@@ -42,7 +42,6 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=SealLion&custom_title=SealLion's Github Stat&bg_color=60,7da4e3,576ea2&title_color=ffffff&text_color=ffffff"
-        />  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=SealLion&custom_title=SealLion's Github Stat&bg_color=60,7da4e3,576ea2&title_color=ffffff&text_color=ffffff"/>  </div> 
     </div>
     
