@@ -40,10 +40,12 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Seal-Lion&custom_title=Seal-Lion's Github Stat&bg_color=60,7da4e3,576ea2&title_color=ffffff&text_color=ffffff"/>  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Seal-Lion&bg_color=180,ededed,00000000&title_color=6881e3&text_color=6881e3"
+         />  </div>  
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=SealLion)](https://solved.ac/seallion)
         
 </div>
+
     
