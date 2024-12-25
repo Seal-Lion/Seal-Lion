@@ -1,6 +1,7 @@
 
 
-
+    ## Info
+    # HI, I'm SealLion
 
 <!--<a href="①버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/②뱃지레이블-③배경색?style=④뱃지모양&logo=⑤로고&logoColor=로고색상"/></a>-->
 
@@ -14,8 +15,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     
-    ## Info
-    # HI, I'm SealLion
+
     
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
