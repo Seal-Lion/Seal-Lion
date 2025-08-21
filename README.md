@@ -10,7 +10,7 @@
     </div> 
     <br/><br/><div align= "center">   
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Info </h2> <br> 
-     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> HI, I'm SealLion </h2>
+     <h2 color: #282d33;"> HI, I'm SealLion </h2>
     </div>
     <br/><br/><br/><div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
