@@ -5,12 +5,11 @@
     <img src="https://capsule-render.vercel.app/api?type=shark&color=0:7ba1df,100:5f77ab&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
-    <!--<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>-->
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <br/><br/><div align= "center">   
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Info </h2> <br> 
-     <h3 color: #282d33;"> HI, I'm SealLion </h3>
+     <h3 color: #282d33;"> HI, I'm Seal-Lion </h3>
     </div>
     <br/><br/><br/><div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -31,7 +30,7 @@
     <br/><br/><br><div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.naver.com/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.naver.com/"> </a>
-         <a href=https://www.naver.com/> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://www.naver.com/"> </a>
+         <a href=https://velog.io/@seallion/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://www.naver.com/"> </a>
          <a href=https://www.naver.com/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.naver.com/"> </a>
          <a href=mailto:https://www.naver.com/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:https://www.naver.com/"> </a>
           </div>  <br><br><br> 
