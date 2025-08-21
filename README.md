@@ -41,10 +41,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div align= "center"> <br><img src="https://github-readme-stats.vercel.app/api?username=Seal-Lion&bg_color=180,ededed,00000000&title_color=6881e3&text_color=6881e3"/>
         </div>  
-
-    
-    
- 
 </div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=SealLion)](https://solved.ac/seallion)
+
