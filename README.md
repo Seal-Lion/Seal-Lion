@@ -1,9 +1,6 @@
 
 <!--<a href="①버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/②뱃지레이블-③배경색?style=④뱃지모양&logo=⑤로고&logoColor=로고색상"/></a>-->
 
-## Info
-### HI, I'm SealLion
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=shark&color=0:7ba1df,100:5f77ab&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
@@ -13,6 +10,7 @@
     </div> 
     <br/><br/><div align= "center">   
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Info </h2> <br> 
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> HI, I'm SealLion </h2>
     </div>
     <br/><br/><br/><div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
