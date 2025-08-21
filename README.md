@@ -8,7 +8,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <br/><br/><div align= "center">   
-     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖐 Info </h2> <br> 
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Info 🖐 </h2> <br> 
      <h3 color: #282d33;"> HI, I'm Seal-Lion </h3>
     </div>
     <br/><br/><br/><div align= "center">   
