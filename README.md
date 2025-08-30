@@ -53,7 +53,7 @@
         <div align= "center"> <br> 
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SealLion)](https://solved.ac/seallion" alt="Solved.ac 프로필"/> <br><br>
             <img src="https://github-readme-stats.vercel.app/api?username=Seal-Lion&bg_color=180,ededed,00000000&title_color=6881e3&text_color=6881e3"/><br>
-            <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
+            <img src="http://mazandi.herokuapp.com/api?handle={SealLion}&theme=cold"/>
         </div>  
 </div>
 
