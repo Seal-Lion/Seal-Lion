@@ -21,7 +21,7 @@
           <br/>
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/.Net-d926d3?style=for-the-badge&logo=.Net&logoColor=white">
+          <img src="https://img.shields.io/badge/C#-512bd4?style=for-the-badge&logo=dotnet&logoColor=white">
           <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
           <!--<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">-->
           <!--<img src="https://img.shields.io/badge/Unrealengine-0E1128?style=for-the-badge&logo=Unrealengine&logoColor=white">-->
