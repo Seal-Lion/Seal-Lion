@@ -10,6 +10,7 @@
     <br/><br/><div align= "center">   
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Info 🖐 </h2> <br> 
      <h3 color: #282d33;"> HI, I'm Seal-Lion </h3>
+     <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
     </div>
     <br/><br/><br/><div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
