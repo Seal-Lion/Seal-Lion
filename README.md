@@ -52,7 +52,7 @@
     <br/><br/><br/><div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div align= "center"> <br> 
-            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seal_lion)](https://solved.ac/seal_lion" alt="Solved.ac 프로필"/>
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seal_lion)](https://solved.ac/seal_lion" alt="Solved.ac 프로필"/> <br>
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seal_lion)](https://solved.ac/seal_lion" alt="Solved.ac 프로필"/> <br><br>
             <img src="http://mazandi.herokuapp.com/api?handle=seal_lion&theme=cold"/>
         </div>  
