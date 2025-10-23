@@ -10,6 +10,8 @@
     <br/><br/><div align= "center">   
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Info 🖐 </h2> <br> 
      <h3 color: #282d33;"> HI, I'm Seal-Lion </h3>
+     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Seal-Lion&utm_content=farm">
+     <img src="https://render.gitanimals.org/farms/Seal-Lion" width="600" height="300"/></a>
      <img src="https://github-readme-stats.vercel.app/api?username=Seal-Lion&bg_color=180,ededed,00000000&title_color=6881e3&text_color=6881e3"/>
     </div>
     <br/><br/><br/><div align= "center">   
