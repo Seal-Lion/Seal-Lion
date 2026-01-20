@@ -1,8 +1,8 @@
 name: Daily README Update
 on:
   schedule:
-    - cron: '0 0 * * *'  # 매일 자정 UTC (한국시간 오전 9시)
-  workflow_dispatch:       # 수동 실행 버튼
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -11,18 +11,18 @@ jobs:
     
     - name: Update README
       run: |
-        cat >> README.md << EOF
+        DATE=$(date +%Y-%m-%d)
+        PERCENT=$((RANDOM%100+1))
+        echo "## 🚀 Daily Progress (${PERCENT}%)" >> README.md
+        echo "**${DATE} KST**" >> README.md
+        echo "✅ Unity C#: Kitten's Dreamland 개발" >> README.md
+        echo "✅ Notion 게임기획 문서 작성" >> README.md
+        echo "✅ 정보처리기사 필기 공부" >> README.md
+        echo "" >> README.md
+        echo "---" >> README.md
+        echo "*🦁 Seal-Lion Auto Update*" >> README.md
         
-## 🚀 Daily Progress ($((RANDOM%100+1))%)
-**$(date +%Y-%m-%d) KST**  
-✅ Unity C#: Kitten's Dreamland 개발
-✅ Notion 게임기획 문서 작성
-✅ 정보처리기사 필기 공부
-
----
-*🤖 Seal-Lion Auto Update*
-EOF
-        
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "📝 $(date +%Y-%m-%d) Daily Update"
+        commit_message: "📝 Daily Update"
