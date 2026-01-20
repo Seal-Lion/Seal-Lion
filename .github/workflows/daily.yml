@@ -1,0 +1,28 @@
+name: Daily README Update
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 매일 자정 UTC (한국시간 오전 9시)
+  workflow_dispatch:       # 수동 실행 버튼
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Update README
+      run: |
+        cat >> README.md << EOF
+        
+## 🚀 Daily Progress ($((RANDOM%100+1))%)
+**$(date +%Y-%m-%d) KST**  
+✅ Unity C#: Kitten's Dreamland 개발
+✅ Notion 게임기획 문서 작성
+✅ 정보처리기사 필기 공부
+
+---
+*🤖 Seal-Lion Auto Update*
+EOF
+        
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "📝 $(date +%Y-%m-%d) Daily Update"
