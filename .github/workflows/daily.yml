@@ -15,14 +15,14 @@ jobs:
       run: |
         DATE=$(date +%Y-%m-%d)
         PERCENT=$((RANDOM%100+1))
-        echo "## 🚀 Daily Progress (${PERCENT}%)" >> daily-log.md
-        echo "**${DATE} KST**" >> daily-log.md
-        echo "✅ Unity C#: Kitten's Dreamland 개발" >> daily-log.md
-        echo "✅ Notion 게임기획 문서 작성 및 수정" >> daily-log.md
-        echo "✅ 정보처리기사 준비" >> daily-log.md
-        echo "" >> daily-log.md
-        echo "---" >> daily-log.md
-        echo "*🦁 Seal-Lion Auto Update*" >> daily-log.md
+        echo "## 📚 Daily Progress (${PERCENT}%)" >> mylog/daily-log.md
+        echo "**${DATE} KST**" >> mylog/daily-log.md
+        echo "✅ Unity C#: Kitten's Dreamland 개발" >> mylog/daily-log.md
+        echo "✅ Notion 게임기획 문서 작성 및 수정" >> mylog/daily-log.md
+        echo "✅ 정보처리기사 준비" >> mylog/daily-log.md
+        echo "" >> mylog/daily-log.md
+        echo "---" >> mylog/daily-log.md
+        echo "*🦁 Seal-Lion Auto Update*" >> mylog/daily-log.md
         
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v5
