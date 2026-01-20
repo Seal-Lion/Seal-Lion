@@ -59,6 +59,3 @@
             <img src="http://mazandi.herokuapp.com/api?handle=seal_lion&theme=cold"/>
         </div>  
 </div>
-
----
-*🦁 Seal-Lion Auto Update*
