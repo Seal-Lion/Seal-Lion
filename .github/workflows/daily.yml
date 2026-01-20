@@ -1,4 +1,4 @@
-name: Daily README Update
+name: Daily Log Update
 
 on:
   schedule:
@@ -11,18 +11,18 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     
-    - name: Update README
+    - name: Update daily log
       run: |
         DATE=$(date +%Y-%m-%d)
         PERCENT=$((RANDOM%100+1))
-        echo "## 🚀 Daily Progress (${PERCENT}%)" >> README.md
-        echo "**${DATE} KST**" >> README.md
-        echo "✅ Unity C#: Kitten's Dreamland 개발" >> README.md
-        echo "✅ Notion 게임기획 문서 작성" >> README.md
-        echo "✅ 정보처리기사 필기 공부" >> README.md
-        echo "" >> README.md
-        echo "---" >> README.md
-        echo "*🦁 Seal-Lion Auto Update*" >> README.md
+        echo "## 🚀 Daily Progress (${PERCENT}%)" >> daily-log.md
+        echo "**${DATE} KST**" >> daily-log.md
+        echo "✅ Unity C#: Kitten's Dreamland 개발" >> daily-log.md
+        echo "✅ Notion 게임기획 문서 작성" >> daily-log.md
+        echo "✅ 정보처리기사 필기 공부" >> daily-log.md
+        echo "" >> daily-log.md
+        echo "---" >> daily-log.md
+        echo "*🦁 Seal-Lion Auto Update*" >> daily-log.md
         
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v5
