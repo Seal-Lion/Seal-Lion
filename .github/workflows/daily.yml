@@ -18,7 +18,7 @@ jobs:
         echo "## 📚 Daily Progress (${PERCENT}%)" >> mylog/daily-log.md
         echo "**${DATE} KST**" >> mylog/daily-log.md
         echo "✅ Unity C#: Kitten's Dreamland 개발" >> mylog/daily-log.md
-        echo "✅ Notion 게임기획 문서 작성 및 수정" >> mylog/daily-log.md
+        echo "✅ C# 문법 공부 및 정리" >> mylog/daily-log.md
         echo "✅ 정보처리기사 준비" >> mylog/daily-log.md
         echo "" >> mylog/daily-log.md
         echo "---" >> mylog/daily-log.md
